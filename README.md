@@ -28,4 +28,4 @@ dir/
 
 ### Run 
 - yarn 
-- yarn next dev
+- yarn dev
