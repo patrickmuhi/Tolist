@@ -1,0 +1,26 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "export": "next build && next export"
+  },
+  "dependencies": {
+    "baseui": "^9.110.0",
+    "next": "^10.0.0",
+    "react": "16.13.1",
+    "react-beautiful-dnd": "^13.0.0",
+    "react-dom": "^17.0.1",
+    "react-icons": "^4.2.0",
+    "styletron-engine-atomic": "^1.4.7",
+    "styletron-react": "^6.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^13.11.0",
+    "@types/react": "^16.9.32",
+    "typescript": "^3.8.3"
+  }
+}
